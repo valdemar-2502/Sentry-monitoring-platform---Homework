@@ -19,13 +19,30 @@ Free Cloud account имеет ограничения:
 
 В качестве решения задания пришлите скриншот меню Projects.
 
+---
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/01.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/02.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/03.png)
+
+---
 ## Задание 2
 
 1. Создайте python-проект и нажмите `Generate sample event` для генерации тестового события.
-1. Изучите информацию, представленную в событии.
-1. Перейдите в список событий проекта, выберите созданное вами и нажмите `Resolved`.
-1. В качестве решения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта после нажатия `Resolved`.
+2. Изучите информацию, представленную в событии.
+3. Перейдите в список событий проекта, выберите созданное вами и нажмите `Resolved`.
+4. В качестве решения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта после нажатия `Resolved`.
 
+---
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/04.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/05.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/06.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/08.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/09.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/10.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/11.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/12.png)
+
+---
 ## Задание 3
 
 1. Перейдите в создание правил алёртинга.
@@ -36,8 +53,16 @@ Free Cloud account имеет ограничения:
 `sample issue` до того, как вы его сгенерировали, и то, что правило алёртинга выставлено по дефолту (во всех полях all).
 Также проверьте проект, в котором вы создаёте событие — возможно алёрт привязан к другому.
 5. В качестве решения задания пришлите скриншот тела сообщения из оповещения на почте.
-6. Дополнительно поэкспериментируйте с правилами алёртинга. Выбирайте разные условия отправки и создавайте sample events. 
+6. Дополнительно поэкспериментируйте с правилами алёртинга. Выбирайте разные условия отправки и создавайте sample events.  
 
+---
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/13.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/14.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/15.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/16.png)
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/17.png)
+
+---
 ## Задание повышенной сложности
 
 1. Создайте проект на ЯП Python или GO (около 10–20 строк), подключите к нему sentry SDK и отправьте несколько тестовых событий.
@@ -45,6 +70,7 @@ Free Cloud account имеет ограничения:
 3. В качестве решения задания пришлите скриншот меню issues вашего проекта и пример кода подключения sentry sdk/отсылки событий.
 
 ---
+![monitoring](https://github.com/valdemar-2502/Sentry-monitoring-platform---Homework/blob/main/screenshots/07.png)
 
 ### Как оформить решение задания
 
